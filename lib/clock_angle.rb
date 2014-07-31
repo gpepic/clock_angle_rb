@@ -12,9 +12,7 @@ def clock_angle(input)
     #   minute_input = 0
     # end
 
-  # degrees = (minute_input * 6 - (hour_input * 30 + minute_input / 2)).abs
-  # degrees > 180 ? 360 - degrees : degrees
-  hour_degrees = hour_input * 30
+   hour_degrees = hour_input * 30
   minute_degrees = minute_input * 6
 
   angle1 = hour_degrees - minute_degrees
