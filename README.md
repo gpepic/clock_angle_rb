@@ -26,7 +26,9 @@ irb:> require '.lib/clock_angle.rb'
 irb:> clock_angle
 ```
 
-Program will ask you to enter time.  Use HH:MM 12-Hour format, such as 8:23.  It will return the degrees between the hour hand and minute hand.
+Program will ask you to enter time.  Use `HH:MM 12-Hour format`, such as `8:23`.  It will return the `degrees` between the hour hand and minute hand.
+
+Remember to quit `irb` using `exit` or `quit`.  If `irb` hangs, use `ctrl+C` a couple of times and then enter `quit` or close your terminal and re-open.
 
 Enjoy!
 
