@@ -5,7 +5,7 @@ CLOCK ANGLE
 
 ####Ginger Pearson
 
-##7/31/2014
+###7/31/2014
 
 ###Version:
 V1.0.0
@@ -32,4 +32,4 @@ Remember to quit `irb` using `exit` or `quit`.  If `irb` hangs, use `ctrl+C` a c
 
 Enjoy!
 
-##Copyright © 2014
+###Copyright © 2014
