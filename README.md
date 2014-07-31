@@ -18,7 +18,7 @@ To use this program, Ruby with `irb` must be installed on your system.
 
 Download Clock Angle repository zip file using `Download Zip` button from (https://github.com/gpepic/clock_angle_rb).
 
-Copy file to `directory` of your choice.  From your command line, in the same directory, enter the following:
+Copy file to `directory` of your choice.  From your command line, in the same `directory`, enter the following:
 
 ```ruby
 $ irb
