@@ -11,6 +11,10 @@ describe :clock_angle do
   end
 
   it 'returns the degrees between hour and minute hand when the hands are 20 minutes apart' do
-    expect(clock_angle("6:10")).to eq(120)
+    expect(clock_angle('6:10')).to eq(120)
+  end
+
+  it 'returns the degrees between hour and minute hand when the hands are 30 minutes apart' do
+    expect(clock_angle('10:20')).to eq(180)
   end
 end
